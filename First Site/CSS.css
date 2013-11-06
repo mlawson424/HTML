@@ -1,0 +1,22 @@
+@charset "utf-8";
+/* CSS Document */
+
+#Body {
+	background-attachment: scroll;
+	background-color: #000;
+	background-image: url(Images/GW2_HumanNecromancer-1920x1080.jpg);
+	border: medium ridge #060;
+	background-size: auto;
+	height: auto;
+	width: auto;
+}
+
+.background {
+	background-attachment: scroll;
+	background-color: #000;
+	background-image: url(Images/GW2_HumanNecromancer-1920x1080.jpg);
+	border: medium ridge #060;
+	background-size: auto;
+	height: auto;
+	width: auto;
+}
